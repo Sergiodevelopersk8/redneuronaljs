@@ -1,5 +1,7 @@
 #sitio{
-    width: 300px;
-    height: 250px;
- 
+width: 300px;
+height: 250px;
+ padding:5rem;
+ font-size:5rem;
+ margin-left: 15rem;
 }
